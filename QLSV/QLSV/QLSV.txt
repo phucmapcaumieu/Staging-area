@@ -1,7 +1,0 @@
-Tran Minh Quang cute,001,19/09/2015,9,10,11
-Co gai Van Lang,002,18/04/2003,1,1,5
-Nguoi tinh khu quan su,003,02/02/2003,4,5,7
-Em gai toc do dang yeu,004,04/10/2004,6,6,5
-Chang trai hay moc dan,005,02/10/2005,6,10,10
-Cu to vl,007,13/12/2003,10,1,2
-Cu to vl,007,13/12/2003,10,1,2
